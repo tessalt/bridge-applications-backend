@@ -22,7 +22,7 @@ jobs:
           name: lint
           command: yarn lint:ci
           environment:
-            ESLINT_REPORT: ./reports/eslint
+            ESLINT_REPORT: ./reports/eslint/eslint-results.xml
           when: always
       - store_artifacts:
           path: reports
