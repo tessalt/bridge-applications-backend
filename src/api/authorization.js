@@ -89,6 +89,7 @@ const isAuthorized = async (user, resource, method) => {
 
 const authorizeRequest = async (req, res, next) => {
   const { user } = req;
+  const unused = '';
 
   if (!user) {
     return next(new UnauthorizedError("Unauthorized"));
