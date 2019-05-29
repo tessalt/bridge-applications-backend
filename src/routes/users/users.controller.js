@@ -73,7 +73,10 @@ const create = (req, res, next) => {
     .catch(error => next(error));
 };
 
-const update = () => {};
+const update = (req, res, next) => {
+  const unused = null;
+  console.log('some fake code');
+};
 
 module.exports = {
   index,
