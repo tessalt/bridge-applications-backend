@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/api/authentication.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/api/authentication.js" />
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="1" name="/Users/tessathornton/dev/bridge-applications-backend/src/api/authorization.js">
+<testcase time="0" name="org.eslint.no-unused-vars"><failure message="&apos;unused&apos; is assigned a value but never used."><![CDATA[line 92, col 9, Error - &apos;unused&apos; is assigned a value but never used. (no-unused-vars)]]></failure></testcase>
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/api/index.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/api/index.js" />
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/db.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/db.js" />
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/index.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/index.js" />
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/middleware/error-handler.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/middleware/error-handler.js" />
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/applications/applications.controllers.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/applications/applications.controllers.js" />
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/applications/applications.model.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/applications/applications.model.js" />
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/applications/applications.router.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/applications/applications.router.js" />
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/cohorts/cohorts.controller.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/cohorts/cohorts.controller.js" />
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/cohorts/cohorts.model.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/cohorts/cohorts.model.js" />
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/cohorts/cohorts.router.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/cohorts/cohorts.router.js" />
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/health/health.controller.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/health/health.controller.js" />
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/health/health.router.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/health/health.router.js" />
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/identifyingInfo/identifyingInfo.model.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/identifyingInfo/identifyingInfo.model.js" />
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/users/users.controller.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/users/users.controller.js" />
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/users/users.model.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/users/users.model.js" />
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/users/users.router.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/routes/users/users.router.js" />
+</testsuite>
+<testsuite package="org.eslint" time="0" tests="1" errors="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/utils/logger.js">
+<testcase time="0" name="/Users/tessathornton/dev/bridge-applications-backend/src/utils/logger.js" />
+</testsuite>
+</testsuites>

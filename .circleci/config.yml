@@ -20,5 +20,11 @@ jobs:
             - ~/.cache/yarn
       - run:
           name: lint
-          command: yarn lint
+          command: yarn lint:ci
+          environment:
+            ESLINT_REPORT: ./reports/eslint
           when: always
+      - store_artifacts:
+          path: reports
+      - store_test_resutls:
+          path: reports
