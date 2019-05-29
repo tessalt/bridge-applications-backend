@@ -26,5 +26,5 @@ jobs:
           when: always
       - store_artifacts:
           path: reports
-      - store_test_resutls:
+      - store_test_results:
           path: reports
